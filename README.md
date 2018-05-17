@@ -7,4 +7,13 @@
 *   [IT“民科”罗永浩](https://www.tuicool.com/articles/7zAb6rB)  
 罗永浩的“非正式同行”郭德纲曾经说过这么一段话：“内行要是与外行去辩论那是外行。
 比如我和火箭科学家说，你那火箭不行，燃料不好，我认为得烧柴，最好是煤，煤最好选精煤，水洗煤不好。
-如果那个科学家拿正眼看我一眼，那他就输了。”
+如果那个科学家拿正眼看我一眼，那他就输了。”  
+*   [被冤枉、被带节奏！你联想明明投票给了华为为何还说不清？](https://www.tuicool.com/articles/UjIBrqR)
+*   [JavaScript 新手的踩坑日记](https://www.tuicool.com/articles/vMfqUve)
+*   [JavaScript || 对象](https://segmentfault.com/a/1190000008521798)
+*   [JavaScript 奇怪事件簿](https://www.tuicool.com/articles/FR3Inue)
+![js](image/js.png)
+
+
+
+
