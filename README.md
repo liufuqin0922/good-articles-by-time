@@ -1,6 +1,11 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选
 
+
+
+
 2018-5
+*   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
+*   [非对称加密和证书总结](https://tlanyan.me/asymmetric-encryption-and-certificate-summary/)
 *   [HTTPS 原理详解](http://liuduo.me/2018/05/14/https-detail/)
 *   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
 *   [Docker：一场令人追悔莫及的豪赌](http://dockone.io/article/5520)
@@ -13,7 +18,9 @@
 *   [JavaScript || 对象](https://segmentfault.com/a/1190000008521798)
 *   [JavaScript 奇怪事件簿](https://zhuanlan.zhihu.com/p/33986820)  
 ![js](image/js.png)  
-
-
+*   [常见的JavaScript内存泄露](https://github.com/zhansingsong/js-leakage-patterns)
+*   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
+*   [Cache是怎么组织和工作的？什么是n-ways Set-Associative Cache?](https://zhuanlan.zhihu.com/p/31859105)
+*   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
 
 
