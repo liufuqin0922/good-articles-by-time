@@ -22,5 +22,12 @@
 *   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
 *   [Cache是怎么组织和工作的？什么是n-ways Set-Associative Cache?](https://zhuanlan.zhihu.com/p/31859105)
 *   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
+*   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
+*   [Deep Learning读书笔记（6）--【卷积神经网络】](https://www.tuicool.com/articles/i2QNfiZ)
+*   [简述表征句子的3种无监督深度学习方法](https://www.tuicool.com/articles/n6jQRb2)
+*   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
+*   [从无监督构建词库看「最小熵原理」，套路是如何炼成的](https://www.tuicool.com/articles/mIRjMnf)
+*   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
+
 
 
