@@ -4,6 +4,7 @@
 
 
 2018-5
+*   [深入理解C++ new/delete, new []/delete[]动态内存管理](http://www.cnblogs.com/tp-16b/p/8684298.html)
 *   [毕业论文文献综述撰写模板](https://zhuanlan.zhihu.com/p/31682742)
 *   [The Meaning of OP in Online Conversation](https://www.lifewire.com/what-does-o-p-stand-for-2483372)
 *   [在 Bilibili 学技能涨知识，我推荐这 14 个频道](https://sspai.com/post/44652)
