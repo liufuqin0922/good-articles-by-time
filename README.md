@@ -2,8 +2,14 @@
 
 
 
+## 2018-6
+*   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
+
 
 ## 2018-5
+*   [Python 中的元编程](https://www.ibm.com/developerworks/cn/analytics/library/ba-metaprogramming-python/index.html?ca=drs-)
+*   [《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer ](https://github.com/phodal/fe)
+*   [36氪领读 | 史学经典，看瘟疫如何塑造人类历史与社会](http://36kr.com/p/5135719.html)
 *   [深入理解C++ new/delete, new []/delete[]动态内存管理](http://www.cnblogs.com/tp-16b/p/8684298.html)
 *   [毕业论文文献综述撰写模板](https://zhuanlan.zhihu.com/p/31682742)
 *   [The Meaning of OP in Online Conversation](https://www.lifewire.com/what-does-o-p-stand-for-2483372)
