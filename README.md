@@ -3,7 +3,7 @@
 
 
 ## 2018-6
-*   据称有一千万的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
+*   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
 
