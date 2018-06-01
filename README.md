@@ -1,5 +1,5 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
-若想看根据分类排序， [good-articlles-by-sort](https://github.com/zhang0peter/good-articlles-by-sort)
+若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articlles-by-sort)
 
 
 
