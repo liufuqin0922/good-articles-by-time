@@ -1,8 +1,16 @@
-# 本仓库用来存放我看过的认为比较好的文章以及好句精选
+# 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
+若想看根据分类排序， [good-articlles-by-sort](https://github.com/zhang0peter/good-articlles-by-sort)
 
 
 
 ## 2018-6
+*   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
+*   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
+*   [从Chrome源码看WebSocket](https://www.yinchengli.com/2018/05/27/chrome-websocket)
+*   [一文读懂 WebSocket 通信过程与实现 ](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635184&idx=2&sn=e58e831b9f51feabe80152476c1cc2cf)
+*   [数据安全及各种加密算法对比](http://www.cocoachina.com/programmer/20180530/23572.html)
+*   [实战Teensy烧录渗透测试U盘](http://www.freebuf.com/sectool/150367.html)
+*   [被长期忽视、却危害巨大的邮件追踪术](http://36kr.com/p/5136373.html)
 *   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
