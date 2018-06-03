@@ -4,6 +4,7 @@
 
 
 ## 2018-6
+*   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
 *   [我的面经，渗透测试](http://www.lofter.com/lpost/1f350fa3_125b03d2)
 *   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
 *   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
