@@ -4,6 +4,9 @@
 
 
 ## 2018-6
+*   [从VS的dumpbin目录谈x86,i386,x86-64,amd64](http://durant35.github.io/2016/09/17/hsw_%E4%BB%8EVS%E7%9A%84dumpbin%E7%9B%AE%E5%BD%95%E8%B0%88x86,i386,x86-64,amd64/)
+*   [在Visual Studio命令提示符界面下编译链接OpenSSL自带的示例程序](https://blog.csdn.net/henter/article/details/8539167)
+*   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
 *   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
 *   [我的面经，渗透测试](http://www.lofter.com/lpost/1f350fa3_125b03d2)
