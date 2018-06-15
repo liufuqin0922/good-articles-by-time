@@ -4,6 +4,20 @@
 
 
 ## 2018-6
+*   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
+*   [python异步编程之asyncio（百万并发）](http://www.cnblogs.com/shenh/p/9090586.html)
+*   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
+*   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
+*   [MMU（TLB）与Cache的工作方式](http://blog.csdn.net/qq405180763/article/details/39157795)
+*   [漫谈虚拟内存](http://www.cnblogs.com/neal-ke/p/8711561.html)
+*   [虚拟内存](http://joakimliu.github.io/2018/03/16/Virtual-Memory/)
+*   [Buffer Cache 原理](https://blog.csdn.net/robinson1988/article/details/5982996)
+*   [CPU cache(下)](https://blog.csdn.net/vanbreaker/article/details/7477853)
+*   [CPU cache(上)](https://blog.csdn.net/vanbreaker/article/details/7470830)
+*   [走近流行强化学习算法：最优Q-Learning](https://www.jiqizhixin.com/articles/2018-06-02-3)
+*   [Python 标准库之 LRU 缓存实现学习 ](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486012&idx=2&sn=770e9bf6075262eb28b6ce9762fc8b10&chksm=9b5faedaac2827cc5d4ea1ab19e95566a97f8d6d05b1ce1a259b0730ca85b594ea3f01ac871f&mpshare=1&scene=23&srcid=0605xmUnKn5EA7OlTJSStn78#rd)
+*   [机器学习 （十） 优化算法利器之梯度下降（Gradient Descend）](https://blog.csdn.net/jiaolong724/article/details/79955673)
+*   [用Python进行奇异值分解（SVD）实战指南](https://zhuanlan.zhihu.com/p/37542414)
 *   [从VS的dumpbin目录谈x86,i386,x86-64,amd64](http://durant35.github.io/2016/09/17/hsw_%E4%BB%8EVS%E7%9A%84dumpbin%E7%9B%AE%E5%BD%95%E8%B0%88x86,i386,x86-64,amd64/)
 *   [在Visual Studio命令提示符界面下编译链接OpenSSL自带的示例程序](https://blog.csdn.net/henter/article/details/8539167)
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
