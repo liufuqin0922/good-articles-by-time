@@ -4,6 +4,14 @@
 
 
 ## 2018-6
+*   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
+*   [每个程序员都应该了解的内存知识【第一部分】](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
+*   [用中文传话游戏理解 RNN](https://www.leiphone.com/news/201805/0jC6kzYO93pyiHMP.html)
+*   [明知道对自己不好，却总停不下来？| 关于“自律”的科学](https://zhuanlan.zhihu.com/p/37920654)
+*   [码农英语课堂 0x0b：面向对象诞生的历史](https://mp.weixin.qq.com/s/xvhhGgpsxBV_ho7i1STkCg)
+*   [学习Promise，掌握未来世界JS异步编程基础](http://blog.guowenfh.com/2018/06/04/2018/learning-Promise/)
+*   [Qt 主窗口点击按钮 弹出另一个自定义窗口](https://blog.csdn.net/coldplayplay/article/details/78566151)
+*   [Qt快速入门系列教程目录](http://www.qter.org/portal.php?mod=view&aid=26)
 *   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
 *   [python异步编程之asyncio（百万并发）](http://www.cnblogs.com/shenh/p/9090586.html)
 *   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
