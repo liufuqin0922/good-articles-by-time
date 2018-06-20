@@ -4,6 +4,15 @@
 
 
 ## 2018-6
+*   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f)
+*   [数据库事务隔离级别与并发事务控制（悲观锁与乐观锁）](http://www.wujianjun.org/2016/05/27/transaction-isolation-levels/)
+*   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
+*   [VFIO ——将 DMA 映射暴露给用户态](https://ggaaooppeenngg.github.io/zh-CN/2017/06/05/VFIO-%E2%80%94%E2%80%94%E5%B0%86-DMA-%E6%98%A0%E5%B0%84%E6%9A%B4%E9%9C%B2%E7%BB%99%E7%94%A8%E6%88%B7%E6%80%81/)
+*   [关于使用QTcpSocket的一些总结](https://blog.csdn.net/u011125673/article/details/50474491)
+*   [32.Linux-2440下的DMA驱动(详解)](http://www.cnblogs.com/lifexy/p/7880737.html)
+*   [自然语言处理中句子相似度计算的几种方法](https://cuiqingcai.com/6101.html)
+*   [用户态DMA的问题](https://zhuanlan.zhihu.com/p/28742793)
+*   [美国 CS PhD 申请总结](https://mp.weixin.qq.com/s/or4WAI51gPdoPX5OSYH5oA)
 *   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
 *   [每个程序员都应该了解的内存知识【第一部分】](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 *   [用中文传话游戏理解 RNN](https://www.leiphone.com/news/201805/0jC6kzYO93pyiHMP.html)
@@ -44,7 +53,7 @@
 *   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
 
 
-## 2018-5
+## 2018-5 共27篇
 *   [Python 中的元编程](https://www.ibm.com/developerworks/cn/analytics/library/ba-metaprogramming-python/index.html?ca=drs-)
 *   [《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer ](https://github.com/phodal/fe)
 *   [36氪领读 | 史学经典，看瘟疫如何塑造人类历史与社会](http://36kr.com/p/5135719.html)
