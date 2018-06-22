@@ -4,6 +4,16 @@
 
 
 ## 2018-6
+*   [C++:undefined reference to vtable 原因与解决办法 [转]](https://blog.csdn.net/ai2000ai/article/details/47317863)
+*   [函数式编程简介](https://lambeta.com/2018/02/17/The-Simple-Summary-of-FP/)
+*   [深度学习线性代数简明教程](https://zhuanlan.zhihu.com/p/37712236)
+*   [机器学习实战之KNN算法](https://ask.hellobi.com/blog/luoluopan/12227)
+*   [8天掌握EF的Code First开发之Entity Framework介绍](http://www.cnblogs.com/farb/p/IntroductionToEF.html)
+*   [1.什么是Code First(EF Code First 系列)](https://www.cnblogs.com/caofangsheng/p/5020541.html)
+*   [ASP.Net MVC开发基础学习笔记：一、走向MVC模式](http://www.cnblogs.com/edisonchou/p/3911558.html)
+*   [ASP.NET没有魔法——目录（完结）](http://www.cnblogs.com/selimsong/p/7641799.html)
+*   [C# Code First 配置 - alun-chen - 博客园](https://www.cnblogs.com/alunchen/p/6903753.html)
+*   [自己动手写一个简单的MVC框架（第一版）](http://www.cnblogs.com/edisonchou/p/5211645.html)
 *   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f)
 *   [数据库事务隔离级别与并发事务控制（悲观锁与乐观锁）](http://www.wujianjun.org/2016/05/27/transaction-isolation-levels/)
 *   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
