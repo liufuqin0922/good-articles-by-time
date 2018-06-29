@@ -1,9 +1,23 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articlles-by-sort)
-
+## 大部分网站我都有网页的图片版在web文件夹里
 
 
 ## 2018-6
+*   [为什么印度选择日本高铁？](https://zhuanlan.zhihu.com/p/34398719)
+*   [记一次两小时的js编程学习](http://www.jianshu.com/p/15f2e1e70720)
+*   [深入学习js的面向对象](https://www.jianshu.com/p/afdb33d01f6f)
+*   [抛开jQuery，拾起原生JS的DOM操作](http://www.cnblogs.com/zjjDaily/p/9214519.html)
+*   [JS学习系列 07 - 标签声明（Label Statement）](http://blog.liuxuan.site/2018/03/10/javascript_07_label_statement/)
+*   [js学习日记-变量的坑](http://www.cnblogs.com/94pm/p/9174829.html)
+*   [javascript基础学习心得01](http://www.cnblogs.com/endymion/p/9165134.html)
+*   [深入学习JS执行--单线程的JS](http://www.cnblogs.com/Ry-yuan/p/7865480.html)
+*   [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](http://zhuanlan.51cto.com/art/201806/577218.htm)
+*   [深入浅出虚拟内存机制](http://www.jianshu.com/p/13e337312651)
+*   [TLB和cache的关系](http://blog.csdn.net/yusiguyuan/article/details/39373079)
+*   [三种串行总线的区别](http://www.jianshu.com/p/b2bb49346b32)
+*   [怎么理解Booth算法?](https://www.zhihu.com/question/37637775)
+*   [内存对齐(内存中的数据对齐)、大端模式及小端模式](http://blog.csdn.net/feitianxuxue/article/details/7350589)
 *   [8 个基本的 Docker 容器管理命令](https://linux.cn/article-9768-1.html)
 *   [数据库管理提速：SQL解析的探索与应用](http://database.51cto.com/art/201806/576694.htm)
 *   [数据库设计入门指南与学习笔记](https://hufangyun.com/2018/sql-design/)
