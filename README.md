@@ -4,6 +4,20 @@
 
 
 ## 2018-6
+*   [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
+
+
+
+*   [理解数据库索引](http://hawk0620.github.io/blog/2018/05/29/understand-index/)
+*   [数据库事务与并发控制](http://threezj.com/2016/12/30/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E4%B8%8E%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6/)
+*   [【眼见为实】数据库并发问题 封锁协议 隔离级别](http://www.cnblogs.com/songwenjie/p/8644674.html)
+*   [MYSQL数据库死锁的原因和解决方法](http://uule.iteye.com/blog/2422193)
+*   [Mysql系列-数据库](http://www.cnblogs.com/ManyQian/p/9004516.html)
+*   [JS学习系列 01 - 编译原理和作用域](https://blog.liuxuan.site/2017/02/10/javascript_01_principles_of_compiler/)
+*   [JS学习系列 02 - 词法作用域](http://www.jianshu.com/p/47feedd77262)
+*   [JS学习系列 04 - 提升](https://segmentfault.com/a/1190000008442442)
+*   [JavaScript学习笔记：querySelectorAll 和 getElementsByTagName区别](https://www.w3cplus.com/javascript/querySelectorAll-vs-getElementsByTagName.html)
+*   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
 *   [为什么印度选择日本高铁？](https://zhuanlan.zhihu.com/p/34398719)
 *   [记一次两小时的js编程学习](http://www.jianshu.com/p/15f2e1e70720)
 *   [深入学习js的面向对象](https://www.jianshu.com/p/afdb33d01f6f)
