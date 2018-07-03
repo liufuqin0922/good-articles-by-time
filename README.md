@@ -4,6 +4,9 @@
 
 
 ## 2018-7
+*   [程序员必修课--sql思维举重训练](https://blog.csdn.net/lk_blog/article/details/7585540)
+*   [SQl训练题总结](https://blog.csdn.net/lhylmt/article/details/52079408)
+*   [【软考】之强实体、弱实体](https://blog.csdn.net/u013067756/article/details/49046389)
 *   [CSS Box Model 盒子模型](http://www.cnblogs.com/polk6/p/css-boxModel.html)
 *   [CSS之盒子模型（深入理解）](http://www.cnblogs.com/JiangLai/p/8595309.html)
 *   [UML之需求利器——用例模型](https://blog.csdn.net/zhang_xinxiu/article/details/8574801)
