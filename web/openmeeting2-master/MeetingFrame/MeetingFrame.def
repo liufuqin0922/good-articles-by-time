@@ -1,3 +1,0 @@
-LIBRARY "MeetingFrame"
-EXPORTS
-	 CreateMeetingFrame	@1	NONAME
