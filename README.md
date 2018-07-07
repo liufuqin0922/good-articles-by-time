@@ -4,10 +4,24 @@
 
 
 ## 2018-7
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [Inverted File Index 文件倒排索引 课件理解与习题解](https://blog.csdn.net/Woolseyyy/article/details/51559937)
+*   [斜堆(一)之 C语言的实现](http://www.cnblogs.com/skywang12345/p/3638493.html)
+*   [面试必考点-红黑树图解](https://mp.weixin.qq.com/s?__biz=MzIyNjM3MzI4MQ==&mid=2247484473&idx=1&sn=3d7ff4b69fb1203684cb24bbf1014b76&chksm=e8703ff7df07b6e139b8bfc6c9d7632fb029e66a217ba8ad591e1e3b36ed600e3e917e07daf8#rd&utm_source=tuicool&utm_medium=referral)
+*   [2-3查找树的插入与删除](https://blog.csdn.net/hello_world_lvlcoder/article/details/72615092)
+*   [什么是P问题、NP问题和 NPC问题](http://blogread.cn/it/article/3072)
+*   [左式堆](https://blog.csdn.net/universitycd/article/details/9125707)
+*   [RSA，KMP，AVL树，红黑树和LLRB-tree](http://s1nh.org/post/RSA-KMP-RB-TREE/)
+
 *   [漫画：什么是B+树？](https://mp.weixin.qq.com/s/jRZMMONW3QP43dsDKIV9VQ)
-*   []()
-*   []()
-*   []()
+*   [左倾堆(一)之 图文解析 和 C语言的实现](http://www.cnblogs.com/skywang12345/p/3638327.html)
+*   [二叉堆的实现](http://www.cnblogs.com/zhangbaochong/p/5188288.html)
+*   [数据结构图文解析之：二叉堆详解及C++模板实现](http://www.cnblogs.com/QG-whz/p/5173112.html)
 *   [搜索引擎概述之倒排索引索引](http://www.cnblogs.com/meibaorui/p/9125807.html)
 *   [搜索引擎之倒排索引解读](https://zhuanlan.zhihu.com/p/28320841)
 *   [正排索引与倒排索引](http://www.cnblogs.com/Onlywjy/p/8372452.html)
