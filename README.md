@@ -1,5 +1,5 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
-若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articlles-by-sort)
+若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
 ## 大部分网站我都有网页的图片版在web文件夹里
 
 
@@ -8,6 +8,14 @@
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   [MIPS的跳转/转移指令](https://blog.csdn.net/zxzdream/article/details/40263617)
+*   [MIPS单周期CPU设计（Verilog）](https://blog.csdn.net/Quinze_Lee/article/details/51174019)
+*   [Polling Interrupt DMA](https://www.cnblogs.com/zhangzhi/archive/2010/09/21/1832726.html)
+*   [自己动手写CPU之第八阶段（1）——转移指令介绍](https://blog.csdn.net/leishangwen/article/details/39277137)
+*   [分页存储管理中的页表项长度是什么？](https://blog.csdn.net/dongyanxia1000/article/details/51437123)
+*   [进程页表两级结构：页目录和页表页](https://blog.csdn.net/u012007928/article/details/43706273)
 *   [【计算机本科补全计划】指令：计算机的语言(MIPS) Part4](http://www.jianshu.com/p/f6e7f6858245)
 *   [【计算机本科补全计划】指令：计算机的语言(MIPS) Part3](http://www.jianshu.com/p/e21eac343a48)
 *   [【计算机本科补全计划】指令：计算机的语言(MIPS) --计算机组成原理 Part2](http://www.jianshu.com/p/65da5bf8e433)
