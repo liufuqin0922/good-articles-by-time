@@ -4,12 +4,11 @@
 
 
 ## 2018-7
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
+
+*   [WeMips: Online Mips Emulator](https://rivoire.cs.sonoma.edu/cs351/wemips/)
+*   [Welcome to WebMIPSASM v2.1...](http://www.kurtm.net/mipsasm/index.cgi)
+*   [总线](https://www.jianshu.com/p/65281e71753f)
+*   [[计算机组成原理] 总线](https://www.jianshu.com/p/c293f33dba4b)
 *   [MIPS的跳转/转移指令](https://blog.csdn.net/zxzdream/article/details/40263617)
 *   [MIPS单周期CPU设计（Verilog）](https://blog.csdn.net/Quinze_Lee/article/details/51174019)
 *   [Polling Interrupt DMA](https://www.cnblogs.com/zhangzhi/archive/2010/09/21/1832726.html)
@@ -27,7 +26,6 @@
 *   [【计算机本科补全计划】指令：计算机的语言(MIPS) --计算机组成原理](https://www.jianshu.com/p/4d325e5e2161)
 *   [TLB和cache的关系](https://blog.csdn.net/yusiguyuan/article/details/39373079)
 *   [MMU和cache详解（TLB机制）](http://blog.csdn.net/qq_21792169/article/details/51303477)
-
 *   [椭圆曲线加密算法（ECC）原理和C++实现源码（摘录）](https://www.cnblogs.com/fishou/p/4206981.html)
 *   [椭圆曲线算法（ECC）学习（一）](http://www.freebuf.com/articles/database/155912.html)
 *   [《模仿游戏》中艾伦·图灵是如何破译英格玛的？](https://www.zhihu.com/question/28397034)
