@@ -5,6 +5,15 @@
 
 ## 2018-7
 
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [你是不是药神我不清楚，但你似乎不懂经济学](https://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650005402&idx=1&sn=791b161a7c6b28f5550fc4fbe79fbfba&chksm=8739bdb3b04e34a566586e23a2dc63188c76bba57f6c6b20e0c5eba806ac5a29775e2bddfea9&mpshare=1&scene=23&srcid=07111wvzL1G6i5ueUlAlXJyK#rd)
+*   [《我不是药神》：我不想死，我想活着](https://mp.weixin.qq.com/s?__biz=MzA4OTQ1MTQxNg==&mid=2652046462&idx=1&sn=f5c28250041939120fd8ecf2d5719b88&chksm=8bfd1a89bc8a939fcc248fe88970d456f4ac43b4ba99b360be98765b94068ee12094c59c64c8&scene=21#wechat_redirect)
+*   [从药价高昂引申的思考](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649867742&idx=1&sn=5667cac7b7591cfc4814eef5ce099998&chksm=f1075fb3c670d6a5c56a77f1b89016c23a9591a9e674fed784e3d1afcc61ddabec10db7b2d62&mpshare=1&scene=23&srcid=0711chUGBE9JZKa9JD09n9Hg#rd)
+*   [感谢印度喂全世界的穷人吃药](https://mp.weixin.qq.com/s?__biz=MzUxMTMwMTMxMw==&mid=2247488883&idx=1&sn=7809bbd8a07ff19a9c590ab2f7647ce7&chksm=f97496ddce031fcba2f15c1c845c27547146641013b75813295147b34b74a62e5112a2379225&mpshare=1&scene=23&srcid=0711XxJP8b1z4xs3fkkky9AF#rd)
 *   [WeMips: Online Mips Emulator](https://rivoire.cs.sonoma.edu/cs351/wemips/)
 *   [Welcome to WebMIPSASM v2.1...](http://www.kurtm.net/mipsasm/index.cgi)
 *   [总线](https://www.jianshu.com/p/65281e71753f)
