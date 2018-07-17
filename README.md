@@ -1,6 +1,6 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
-## 大部分网站我都有网页的图片版在web文件夹里
+## 大部分网站我都有网页的图片版在分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort) 的仓库里
 
 
 ## 2018-7
@@ -11,6 +11,13 @@
 *   []()
 *   []()
 *   []()
+*   [DOM系列：DOM事件简介](https://www.w3cplus.com/javascript/dom-event-intro.html)
+*   [[译] 深度学习入门笔记](https://mp.weixin.qq.com/s/zm1jjRT2Fh8VN6zZWfUX2g)
+*   [顺风详解Nginx系列—Ngx中的变量](https://www.jianshu.com/p/99ef60b4eba3)
+*   [糖精、反式脂肪酸……健康饮食的潮流最后为什么往往被证明是错的？](http://www.qdaily.com/articles/54700.html)
+*   [“登上了珠峰又怎样？”一个“成熟”王石的诞生 | “十年” ⑦](http://www.qdaily.com/articles/54065.html)
+*   [一个奇怪的房地产市场，和一夜之间崩溃的海南中介行业](http://www.qdaily.com/articles/55191.html)
+*   [你所不了解的 Bash：关于 Bash 数组的介绍 | Linux 中国](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664611625&idx=2&sn=3972c9c37c35feade483a6d217a691af&chksm=bdce846f8ab90d793a14da241cd320e04932320287b95c6c7f4d965f0a96dd9bb567a35c1362&mpshare=1&scene=23&srcid=0715VvYjkiRJyhosbgVaD6bo#rd)
 *   [过士行：有生命的人被无生命的东西挑战，异化是永远摆脱不了的问题 | 访谈录](http://www.qdaily.com/articles/54894.html)
 *   [[Python黑客] Python 绝技 —— TCP 服务器与客户端](https://bbs.ichunqiu.com/thread-40798-1-1.html)
 *   [关于Ajax和websocket，你应该知道的事儿](http://www.woshipm.com/ucd/1051915.html)
