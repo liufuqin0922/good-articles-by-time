@@ -1,6 +1,6 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
-## 大部分网站我都有网页的图片版在分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort) 的仓库里
+## 我把我认为很可能被删除的网站的图片版放在在分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort) 的仓库里
 
 
 ## 2018-7
@@ -8,9 +8,9 @@
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
+*   [木·田：我在公开信后的一周里（原载于公众号“木田君的镐头”）](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
+*   [聊聊 Nodejs RPC（一）](https://zhuanlan.zhihu.com/p/38012481)
+*   [查看 Linux 发行版名称和版本号的 8 种方法 | Linux 中国](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664610995&idx=1&sn=41b2af8ee8948a9ed69148a7d1d0c541&chksm=bdce87f58ab90ee38939bda56450c0ce7a3f59e82a99c655bea83b9a833ec86b9704ac3c3ae1&scene=0&ascene=7&devicetype=android-26&version=26060240&nettype=cmnet&abtest_cookie=BAABAAoACwAMAA0ABQA%2Bix4Ad4seAJaMHgBijR4APY4eAAAA&lang=zh_CN&pass_ticket=lsjKFFYwhPwYFJd2s14tuElFIajYhp0%2B2j9cB4nMURB%2BfNstjV18jIrVHLCtPI3z&wx_header=1)
 *   [DOM系列：DOM事件简介](https://www.w3cplus.com/javascript/dom-event-intro.html)
 *   [[译] 深度学习入门笔记](https://mp.weixin.qq.com/s/zm1jjRT2Fh8VN6zZWfUX2g)
 *   [顺风详解Nginx系列—Ngx中的变量](https://www.jianshu.com/p/99ef60b4eba3)
