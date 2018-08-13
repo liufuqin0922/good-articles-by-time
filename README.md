@@ -2,14 +2,28 @@
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
 ## 我把我认为很可能被删除的网站的图片版放在在分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort) 的仓库里
 
+## 2018-8
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [一位美籍华商的视角：被严重“折叠”的中美贸易战](https://www.huxiu.com/article/255875.html)
+*   [最全Python内置函数](http://www.cnblogs.com/wuyongcong/p/9418919.html)
+*   [中国软件失落的三十年 这里的黎明静悄悄 | 林雪萍](https://zhuanlan.zhihu.com/p/41843417)
+*   [女团幻灭往事](https://www.huxiu.com/article/256990.html)
+*   [在中国做创投有多难？](https://www.huxiu.com/article/257078.html)
 
-## 2018-7
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
+
+
+
+## 2018-7 202篇
+*   [如何Docker化任意一个应用](http://www.techug.com/post/how-to-dockerize-any-application.html)
 *   [asyncio：高性能异步模块使用介绍](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650368555&idx=1&sn=a449f107c9c16466c51ce8a6939fcb1b&chksm=be9cd17f89eb5869c00e964e42e79400d4c9b993c4c5764ddbf9ef0e4b85741fc4ab05c77dbc&mpshare=1&scene=23&srcid=07163jZEvRwfwwii9F8dKopl#rd)
 *   [Python中异步协程的使用方法介绍](https://cuiqingcai.com/6160.html)
 *   [在 Python 中按需处理数据，第 3 部分 协程和 asyncio](https://www.ibm.com/developerworks/cn/analytics/library/ba-on-demand-data-python-3/index.html)
