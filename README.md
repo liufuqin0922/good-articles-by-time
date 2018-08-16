@@ -1,6 +1,5 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
-## 我把我认为很可能被删除的网站的图片版放在在分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort) 的仓库里
 
 ## 2018-8
 *   []()
@@ -9,10 +8,21 @@
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
-*   []()
+*   [再好好聊聊 HTTP 里的 Cookie | 实用 HTTP](http://www.cnblogs.com/plokmju/p/http_cookie.html)
+*   [如何查看 Linux 中所有正在运行的服务](https://linux.cn/article-9918-1.html)
+*   [我所理解的HTTP协议](http://www.cnblogs.com/cr330326/p/9426018.html)
+*   [我那实现了自己理想的创业老公，却一毛钱股份都没有拿到](http://tech.qq.com/a/20180803/007539.htm)
+*   [SVG 图像入门教程](http://www.ruanyifeng.com/blog/2018/08/svg.html)
+*   [如何看待网传「河南四位家长质疑考生高考答题卡被掉包，成绩与平时相差近 300 分」一事，是否属实？](https://www.zhihu.com/question/288624650)
+*   [网络掩码那些事儿](https://zhuanlan.zhihu.com/p/41042702)
+*   [线程和线程池](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653194102&idx=1&sn=003a55f6cb0f9f364195a6ff4232022f&chksm=8c99f5acbbee7cbaae0caf535909562a3359d068c81b6986a9cbc8801032d354067422f50283&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=cmnet&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
+*   [乐视消亡史：孙宏斌“剥离”贾跃亭，乐视网或将退市](http://www.investorscn.com/2018/08/02/76489/)
+*   [陈一发打出“GG”](https://www.huxiu.com/article/255667.html)
+*   [PAGE：像Visual Studio一样设计Python GUI窗体](https://mp.weixin.qq.com/s?__biz=MzI4MzM2MDgyMQ==&mid=2247486580&idx=1&sn=251270d729f4e50103788b09a4ddf646&chksm=eb8aa72edcfd2e38ec4a4dea36576a104af997abf95ba93bf2d8e591e3dd10ca7a6512ae17df&mpshare=1&scene=23&srcid=0418h5LkldjIvFv8Q26MjASe#rd)
+*   [2018，捷径消亡史](https://www.huxiu.com/article/255852.html)
+*   [那些盯着中国公司的美国“秃鹫”](https://www.huxiu.com/article/257037.html)
+*   [简单带你了解正在广泛普及的PD协议快充的发展历程](https://sspai.com/post/44784)
+*   [3分钟了解国产CPU最新现状！](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652665025&idx=1&sn=8bf8db286469fff2d769f712f5a2b705&chksm=810f325cb678bb4aa5c68d01cb4cdc327b21370dd9b43aa3ab3c3c762d7b773b16d973b91ed0&mpshare=1&scene=23&srcid=0811tJPb0VDyxhdVc84NlxuX#rd)
 *   [一位美籍华商的视角：被严重“折叠”的中美贸易战](https://www.huxiu.com/article/255875.html)
 *   [最全Python内置函数](http://www.cnblogs.com/wuyongcong/p/9418919.html)
 *   [中国软件失落的三十年 这里的黎明静悄悄 | 林雪萍](https://zhuanlan.zhihu.com/p/41843417)
