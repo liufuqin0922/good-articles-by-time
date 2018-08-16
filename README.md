@@ -1,13 +1,30 @@
-# 本仓库用来存放我看过的认为比较好的文章以及好句精选---根据时间排序
+# 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
 
 ## 2018-8
+
+
+
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [基于时间的一次性密码 TOTP](https://www.vtrois.com/totp-tutorial.html)
+*   [装逼那年，公司一地鸡毛](http://www.investorscn.com/2018/08/12/77758/)
+*   [HTTP2和HTTPS来不来了解一下？](http://www.cnblogs.com/Java3y/p/9392349.html)
+*   [集线器、交换机、路由器有什么区别？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514677&idx=1&sn=5e1e0529bd2c9d62b80e10e0efc27c77&chksm=80d67ef6b7a1f7e09d1dab9ee3feebe5928dca1dfd0e34c66c5a7bf4ea7ce22057378d9d27ff&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=WIFI&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
+*   [拼多多，说书人的最爱](https://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650005460&idx=1&sn=be67c7760c76310bea29dcffffc0ca75&chksm=8739bdfdb04e34eb5802027d4085d0ba852b514453636c7c5e54f6f441a25abbc4642044e409&mpshare=1&scene=23&srcid=0805t1iDxhTvMhdaYyvuz3aX#rd)
+*   [用马克思主义战胜抑郁症](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674314&idx=1&sn=27c80bdbece9dbcdffe9619caf327ff7&chksm=bed49bab89a312bdf4bc6771526f1a610d713f5757ab1d8532e4937d0f2823701d5a959c16cc&mpshare=1&scene=23&srcid=0816OwnqmPEYZHQkHnoSUpuy#rd)
 *   [再好好聊聊 HTTP 里的 Cookie | 实用 HTTP](http://www.cnblogs.com/plokmju/p/http_cookie.html)
 *   [如何查看 Linux 中所有正在运行的服务](https://linux.cn/article-9918-1.html)
 *   [我所理解的HTTP协议](http://www.cnblogs.com/cr330326/p/9426018.html)
