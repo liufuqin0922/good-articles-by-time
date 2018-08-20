@@ -4,7 +4,6 @@
 ## 2018-8
 
 
-
 *   []()
 *   []()
 *   []()
@@ -13,12 +12,16 @@
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
-*   []()
+*   [MySQL/InnoDB中，乐观锁、悲观锁、共享锁、排它锁、行锁、表锁、死锁概念的理解](https://www.souyunku.com/2018/07/30/mysql/)
+*   [雷曼的最后63小时](https://www.huxiu.com/article/258148.html)
+*   [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
+*   [旅行销售员的演化：基于Python实现遗传算法](https://zhuanlan.zhihu.com/p/41292727)
+*   [当古典数学问题被拉入现代世界：希尔伯特23问与机器学习算法](https://zhuanlan.zhihu.com/p/41682076)
+*   [垃圾回收算法|引用计数法](http://blog.gusibi.com/post/gc-reference-counting/)
+*   [Docker从入门到放弃](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651070642&idx=4&sn=4588718e68a100087051fc679cadb6bc&chksm=bd1fb2398a683b2fd31a613f6db49ed9a3298dc88790a69e0984cf65f24304544b85ede5f602&mpshare=1&scene=23&srcid=0816CLvbflRDEGoV3wQDwXvh#rd)
+*   [分析了抖音数万条数据和5000头部用户之后，有了这些有趣结论](https://www.jianshu.com/p/3f6d5c04bf67)
+*   [面试中有哪些经典的数据库问题？](http://database.51cto.com/art/201808/581113.htm)
+*   [人口雪崩，说啥都晚了](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674316&idx=1&sn=d41ca988ed198af331a06a587213bccf&chksm=bed49bad89a312bb3afd6ce7d138cef5644f14acd2176adabe2f0753f8158911a9b387c4342c&mpshare=1&scene=23&srcid=0817naGgvpOeO5XdnrqEHR3k#rd)
 *   [基于时间的一次性密码 TOTP](https://www.vtrois.com/totp-tutorial.html)
 *   [装逼那年，公司一地鸡毛](http://www.investorscn.com/2018/08/12/77758/)
 *   [HTTP2和HTTPS来不来了解一下？](http://www.cnblogs.com/Java3y/p/9392349.html)
