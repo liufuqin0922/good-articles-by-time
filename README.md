@@ -3,15 +3,25 @@
 
 ## 2018-8
 
-
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
+*   [Linux下几种反弹Shell方法的总结与理解](http://www.freebuf.com/articles/system/178150.html)
+*   [Django入门与实践教程 电子书](https://github.com/pythonzhichan/django-beginners-guide)
+*   [Linux工具快速教程 电子书](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+*   [如何优雅使用Docker？请收下这15个小技巧。](https://studygolang.com/articles/14319)
+*   [如何攻击 LTE 4G 网络](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247487782&idx=1&sn=98c060254ae4803c84df204863696cd0&chksm=ec1e210edb69a818c54b7a88f13cfc491ce9ac4d9a9d72451811b8b9e1be7296d960f7852bf2&mpshare=1&scene=23&srcid=0821g8351aVg90rZMBU9YPtO#rd)
+*   [Wifi 四次握手认证过程介绍](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247487683&idx=1&sn=8f5ef4ed5e6d352aa7d4790b72e2436f&chksm=ec1e20ebdb69a9fde2226d345531ef851b76729e92fc58a8d2efb18fd5f396b65a4c932f1437&mpshare=1&scene=23&srcid=0821zYfF7beoEq1WdK8vxmiw#rd)
+*   [RFID 低频卡安全分析](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247488027&idx=1&sn=09aefe0d777a9cfe3382b3724a045f0d&chksm=ec1e2233db69ab25c67efff04556ee3dc7c3ce87fece05104505c0a9346cd4772e18cb95268e&mpshare=1&scene=23&srcid=0821KvilFt7OYk97vR8vC3tB#rd)
+*   [轻松理解什么是 C&C 服务器](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247487636&idx=1&sn=f5711c48a8d5e57ed617123b9da365d4&chksm=ec1e20bcdb69a9aa5e584f53d91f18561b1e90ff2568c250d4d543cf64105f84499e162456e4&mpshare=1&scene=23&srcid=0821dOODvmESTC9dhWWob1zK#rd)
+*   [Python实现一条基于POS算法的区块链](https://learnblockchain.cn/2018/08/07/python-blockchain-with-pos/)
+*   [程序员们，只需三步，教你搭建一个区块链程序 | 经典好文](https://blog.csdn.net/blockchain_lemon/article/details/80837336)
+*   [使用 Python 从零开始开发区块链应用程序](http://www.ibm.com/developerworks/cn/cloud/library/cl-develop-blockchain-app-in-python/index.html)
+*   [20分钟，我用简单的Python代码创建了一个完整的区块链！想学吗？](https://blog.csdn.net/blockchain_lemon/article/details/80891527)
+*   [Unicode安全](http://www.au1ge.xyz/2018/08/19/unicode%E5%AE%89%E5%85%A8/)
 *   [MySQL/InnoDB中，乐观锁、悲观锁、共享锁、排它锁、行锁、表锁、死锁概念的理解](https://www.souyunku.com/2018/07/30/mysql/)
 *   [雷曼的最后63小时](https://www.huxiu.com/article/258148.html)
 *   [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
