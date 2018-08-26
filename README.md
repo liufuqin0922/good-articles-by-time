@@ -3,12 +3,20 @@
 
 ## 2018-8
 
+
+
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
+*   []()
+*   [再有人问什么是 Python 元类，就把这篇文章扔给他](https://mp.weixin.qq.com/s/DRqffRRmHtswI4tVtjhbRQ)
+*   [新生](https://b.xinshengdaxue.com/index.html)
+*   [反爬终极方案总结—字体反爬](https://zhuanlan.zhihu.com/p/37838586)
+*   [Python爬虫杂记 - 字体文件反爬（二）](https://www.jianshu.com/p/0e2e1aa6d270)
+*   [杨超越是王思聪内心最深的恐惧](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674332&idx=1&sn=a9be83bed07b471ed09ffa063f495663&chksm=bed49bbd89a312abd788c0773e5554d921f2d5cef286cc404de4161a118ab480f36afde7875a&mpshare=1&scene=23&srcid=0823U0esJts9FJtEIREMmSUW#rd)
 *   [Linux下几种反弹Shell方法的总结与理解](http://www.freebuf.com/articles/system/178150.html)
 *   [Django入门与实践教程 电子书](https://github.com/pythonzhichan/django-beginners-guide)
 *   [Linux工具快速教程 电子书](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
