@@ -3,15 +3,21 @@
 
 ## 2018-8
 
-
-
 *   []()
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
+*   [Docker镜像瘦身的三个窍门](http://dockone.io/article/8174)
+*   [快来学习怎么可视化监控你的爬虫](https://cuiqingcai.com/6217.html)
+*   [Python数据可视化工具pyecharts使用细则](https://www.jiqizhixin.com/articles/2018-08-16-6)
+*   [初学者应该了解的数据结构：Array、HashMap 与 List](http://www.zcfy.cc/article/data-structures-for-beginners-arrays-hashmaps-and-lists)
+*   [看图轻松理解数据结构与算法系列(2-3树)](http://blog.csdn.net/wangyangzhizhou/article/details/81974021)
+*   [伪随机数生成算法](https://blog.shinelee.me/2018/08-22-%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%E7%AE%97%E6%B3%95.html)
+*   [一千行 MySQL 学习笔记](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486486&idx=1&sn=259d7c3c16dd2ecebfee04fa2dfd062a&chksm=9b5fa8f0ac2821e62eeb7d377f2f909f4c054b63237b8e43165ae10b23f90aec00d4b50e1132&mpshare=1&scene=23&srcid=0811doaNYN3AfTmNtn3stN36#rd)
+*   [比特币地址算法详解](https://mp.weixin.qq.com/s/BDzhYBD-ER2iJt79R46S5Q)
+*   [如何看待海航航班备降成都，乘客等 4 小时后擅自开应急门被拘留？](https://www.zhihu.com/question/288176833/)
+*   [CTF-All-In-One（CTF 从入门到放弃）](https://firmianay.gitbooks.io/ctf-all-in-one/content/)
+*   [知识星球"灰袍技能" 2017 精华](https://chrislinn.gitbooks.io/greyhame-2017/)
 *   [再有人问什么是 Python 元类，就把这篇文章扔给他](https://mp.weixin.qq.com/s/DRqffRRmHtswI4tVtjhbRQ)
 *   [新生](https://b.xinshengdaxue.com/index.html)
 *   [反爬终极方案总结—字体反爬](https://zhuanlan.zhihu.com/p/37838586)
