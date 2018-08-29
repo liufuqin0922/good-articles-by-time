@@ -3,10 +3,21 @@
 
 ## 2018-8
 
+
+
 *   []()
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [师傅领进门之6步教你跑通一个AI程序！](https://zhuanlan.zhihu.com/p/43175075)
+*   [2017 年度文章汇总 信安之路](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485926&idx=1&sn=9e12aaabaeb79cf9ec3fbe9db56a2e55&chksm=ec1e39cedb69b0d88228de646b0fcca69896f96a8a49c8225075d30b39f6e53641b04ab86939&mpshare=1&scene=23&srcid=0204dsWWFNM1s3aJHjLwiqRI#rd)
+*   [Windows下反反调试技术汇总](http://www.freebuf.com/articles/others-articles/181085.html)
+*   [在傲慢的垄断资本面前，你的生命不过是一串冰冷的数字](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674343&idx=1&sn=51475d72fd25a9afb2183249dfebedbb&chksm=bed49b8689a312905e787a108fc44d2838f918f4933f64293ba9c8196144a51d4eb0be678179&mpshare=1&scene=23&srcid=0827BrNi4bmrww5EUd8HSSjD#rd)
 *   [Docker镜像瘦身的三个窍门](http://dockone.io/article/8174)
 *   [快来学习怎么可视化监控你的爬虫](https://cuiqingcai.com/6217.html)
 *   [Python数据可视化工具pyecharts使用细则](https://www.jiqizhixin.com/articles/2018-08-16-6)
