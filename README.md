@@ -3,8 +3,6 @@
 
 ## 2018-8
 
-
-
 *   []()
 *   []()
 *   []()
@@ -12,6 +10,12 @@
 *   []()
 *   []()
 *   []()
+*   []()
+*   [sqlmap 内核分析 I: 基础流程](https://zhuanlan.zhihu.com/p/43242220)
+*   [接盘侠，不要跑！](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649867813&idx=1&sn=26481be2c3e782d3406ca0991bad7d9f&chksm=f1075c48c670d55e7caa273233aa67acb1e0d193a0bca2695212a6bab6628d70ffcd772fa34d&mpshare=1&scene=23&srcid=0831Z7mRuuqSyq4ugB8zQFKD#rd)
+*   [我，一个中产阶级的自白](https://www.tuicool.com/articles/jUvYbmm)
+*   [初识强化学习](https://mp.weixin.qq.com/s?__biz=MzI1MjY1NTQxNQ==&mid=2247484010&idx=1&sn=ffced62717743ec0c4ba23483f1d2782&chksm=e9e12032de96a924f3369d92bd16aa58432f270606bd20f5f1cb9fbe57b2fa52cf78082a8ddf&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=cmnet&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
+*   [Linux 程序编译过程的来龙去脉](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649445003&idx=1&sn=3082d820a4582cbcb0ecfc0584a7f4e0&chksm=f3a273f8c4d5faeed2f0b84f6c479c3ae89c489c1a362bb4f9e5d26fcecf3667b7495658ba64&mpshare=1&scene=23&srcid=08251wACCra5PxtR5qX0ravo#rd)
 *   [2018-8-29 如何看待昆山震川路龙哥砍人被反杀事件？被砍男子行为算正当防卫吗？](https://www.zhihu.com/question/292359078)
 *   [10分钟快速入门Python函数式编程](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82117264)
 *   [师傅领进门之6步教你跑通一个AI程序！](https://zhuanlan.zhihu.com/p/43175075)
