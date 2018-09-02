@@ -1,16 +1,20 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
 
-## 2018-8
 
+## 2018-9
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
+*   [程序员夏洛克之被踢出去的用户](http://www.techug.com/post/programmer-and-ie-bug.html)
+*   [2018-9-1 警方通报“昆山砍人案”：于海明的行为属于正当防卫，不负刑事责任](https://mp.weixin.qq.com/s?__biz=MjM5MjExOTIyMA==&mid=2652362538&idx=1&sn=f6e3a344e00c3cd7fd8b46f87cf68395&chksm=bd4857f18a3fdee7e823a2d4a824965542b9044f56cd0a5412f8c2b2b53bada75442afd11d31&mpshare=1&scene=23&srcid=09018c4GVVypEffJLh3NdWgA#rd)
+
+## 2018-8 共75篇
+
+
 *   [sqlmap 内核分析 I: 基础流程](https://zhuanlan.zhihu.com/p/43242220)
 *   [接盘侠，不要跑！](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649867813&idx=1&sn=26481be2c3e782d3406ca0991bad7d9f&chksm=f1075c48c670d55e7caa273233aa67acb1e0d193a0bca2695212a6bab6628d70ffcd772fa34d&mpshare=1&scene=23&srcid=0831Z7mRuuqSyq4ugB8zQFKD#rd)
 *   [我，一个中产阶级的自白](https://www.tuicool.com/articles/jUvYbmm)
