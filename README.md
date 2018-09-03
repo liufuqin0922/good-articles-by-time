@@ -6,9 +6,9 @@
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
+*   [中国不配有好游戏](https://www.huxiu.com/article/260641.html)
+*   [2018-9-2 昆山龙哥之死](https://www.huxiu.com/article/260605.html)
+*   [区块链世界5大分歧：那么多人争得头破血流，究竟是为何？](https://www.ihuoqiu.com/Content/information?data=ocXYCW15X4__2FLhgCa8xSKuw__2C__2C)
 *   [程序员夏洛克之被踢出去的用户](http://www.techug.com/post/programmer-and-ie-bug.html)
 *   [2018-9-1 警方通报“昆山砍人案”：于海明的行为属于正当防卫，不负刑事责任](https://mp.weixin.qq.com/s?__biz=MjM5MjExOTIyMA==&mid=2652362538&idx=1&sn=f6e3a344e00c3cd7fd8b46f87cf68395&chksm=bd4857f18a3fdee7e823a2d4a824965542b9044f56cd0a5412f8c2b2b53bada75442afd11d31&mpshare=1&scene=23&srcid=09018c4GVVypEffJLh3NdWgA#rd)
 
