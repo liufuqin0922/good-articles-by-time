@@ -7,7 +7,6 @@
 
 
 
-
 *   []()
 *   []()
 *   []()
@@ -18,9 +17,18 @@
 *   []()
 *   []()
 *   []()
-*   []()
-*   []()
-*   []()
+*   [抖音、火山小视频签名算法](https://github.com/sweet8-asia/douyin-sign)
+*   [Android中分析抖音和火山小视频的数据请求加密协议(IDA动态调试SO)](http://docs.ioin.in/writeup/www.wjdiankong.cn/_android_E9_80_86_E5_90_91_E4_B9_8B_E6_97_85_android_E4_B8_AD_E5_88_86_E6_9E_90_E6_8A_96_E9_9F_B3_E5_92_8C_E7_81_AB_E5_B1_B1_E5_B0_8F_E8_A7_86_E9_A2_91_E7_9A_84_E6_95_B0_E6_8D_AE_E8_AF_B7_E6_B1_82_/index.html)
+*   [Python 3: os.walk() file paths UnicodeEncodeError: 'utf-8' codec can't encode: surrogates not allowed](https://stackoverflow.com/questions/27366479/python-3-os-walk-file-paths-unicodeencodeerror-utf-8-codec-cant-encode-s)
+*   [抖音App接口文档](https://github.com/ZhuoKeTeam/DouYin/blob/master/document/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.md)
+*   [mitmproxy docx](https://mitmproxy.readthedocs.io/en/v2.0.2/index.html#)
+*   [移动端爬虫--项目实践loach--爬去抖音数据（四）](https://www.jianshu.com/p/8151559a9f50)
+*   [使用python爬取抖音app视频](https://blog.csdn.net/weixin_41710515/article/details/80551116)
+*   [Appium移动自动化测试（一）--安装Appium](https://www.cnblogs.com/fnng/p/4540731.html)
+*   [[Python3网络爬虫开发实战] 1.7.2-mitmproxy的安装](https://cuiqingcai.com/5391.html)
+*   [python3爬虫（三）：mitmproxy下载抖音小视频](https://zhuanlan.zhihu.com/p/41492085)
+*   [mitmproxy官网](https://mitmproxy.org/)
+*   [一面镜子：日本社保危机的警示](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674364&idx=1&sn=f8c064b608e7ad502dc855402fbb7a32&chksm=bed49b9d89a3128b9c26edf0c4d2acc4f930e2a5126e13ec9e7b239567b65b430160a3f287e8&mpshare=1&scene=23&srcid=0904Iv21FcgAZbnpbPls4BeQ#rd)
 *   [App爬虫神器mitmproxy和mitmdump的使用](https://yq.aliyun.com/articles/603782)
 *   [Appium 介绍](http://appium.io/docs/cn/about-appium/intro/)
 *   [中国不配有好游戏](https://www.huxiu.com/article/260641.html)
