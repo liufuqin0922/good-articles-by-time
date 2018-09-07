@@ -10,7 +10,8 @@
 *   []()
 *   []()
 *   []()
-*   []()
+*   [蔡志忠：努力是没有用的](https://www.yuque.com/book-academy/share/shp7tu)
+为什么努力是没有用的？老师或父母老是说努力努力就会走到巅峰——才怪。如果这样，不是所有人都走上巅峰了吗？没有人开始不努力，为什么后来不努力，因为努力没有效果。人生不是走斜坡，你持续走就可以走到巅峰；人生像走阶梯，每一阶有每一阶的难点，学物理有物理的难点，学漫画有漫画的难点，你没有克服难点，再怎么努力都是原地跳。所以当你克服难点，你跳上去就不会下来了。就像你学会语文，即使你十年不讲，碰到状况就会讲；就像学脚踏车，十年没骑，碰到脚踏车一上去就可以上手一样。  
 *   [【译】如何高效的使用 Git](http://www.cnblogs.com/crossoverJie/p/9602180.html)
 *   [科普帖：懂了这些名词，你就已经是个“风控人”了](http://www.woshipm.com/it/1353803.html)
 *   [漫话：如何给女朋友解释什么是Linux的五种IO模型？](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649445029&idx=1&sn=8cb76443c3adb761c72e16c107139a1a&chksm=f3a273d6c4d5fac02c9e4a92078d7e1ed1eaf7c0f7a29b4a5171c095c2c0ab7db5a47695d075&mpshare=1&scene=23&srcid=0904ueF0US4JtxfUk0tzunzn#rd)
