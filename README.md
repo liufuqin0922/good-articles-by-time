@@ -6,10 +6,21 @@
 
 
 
-
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [失传的屠龙术：勇士变成了恶龙怎么办？](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674376&idx=1&sn=9f9d00a3a2f280c54363ac811c7727ca&chksm=bed49be989a312ff4b1a02840ff821e0bbd89109823a6c8c840b508e9af5f8a9c9b19e3b8b4e&mpshare=1&scene=23&srcid=09104eLHdn30lMQVSElhgkKU#rd)
+*   [央行数字货币研究所姚前：SDN增添金融科技新动力](http://www.iyiou.com/p/65926)
+*   [技术分享 | OpenShift网络之SDN](http://dockone.io/article/8204)
+*   [如何编写一个简单的内核](http://www.4hou.com/technology/13302.html)
 *   [蔡志忠：努力是没有用的](https://www.yuque.com/book-academy/share/shp7tu)
 为什么努力是没有用的？老师或父母老是说努力努力就会走到巅峰——才怪。如果这样，不是所有人都走上巅峰了吗？没有人开始不努力，为什么后来不努力，因为努力没有效果。人生不是走斜坡，你持续走就可以走到巅峰；人生像走阶梯，每一阶有每一阶的难点，学物理有物理的难点，学漫画有漫画的难点，你没有克服难点，再怎么努力都是原地跳。所以当你克服难点，你跳上去就不会下来了。就像你学会语文，即使你十年不讲，碰到状况就会讲；就像学脚踏车，十年没骑，碰到脚踏车一上去就可以上手一样。  
 *   [【译】如何高效的使用 Git](http://www.cnblogs.com/crossoverJie/p/9602180.html)
