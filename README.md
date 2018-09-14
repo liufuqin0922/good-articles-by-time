@@ -1,6 +1,7 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)
 
+![number](number.png)
 
 ## 2018-9
 
@@ -21,6 +22,21 @@
 *   []()
 *   []()
 *   []()
+*   [基于开源SDN控制器的下一代金融云网络的研究与实践](http://geek.csdn.net/news/detail/256569?utm_source=tuicool&utm_medium=referral)
+*   [SDN落地的实践与思考：带着问题找方案，别管定义啦](https://www.sdnlab.com/4433.html)
+*   [Openflow简介](https://www.tuicool.com/articles/FnqYVb)
+*   [SDN学习之OpenFlow协议分析](http://www.cnblogs.com/sgatbl/p/6822154.html)
+*   [SDN云数据中心网络异常行为的智能处理实践](http://cloud.51cto.com/art/201711/558419.htm)
+*   [SDN浅谈](https://www.tuicool.com/articles/Q3uQf2)
+*   [SDN/NFV助力，宽带接入网成网络重构关键突破口](http://www.d1net.com/data/vendor/484656.html)
+*   [XSS 笔记](http://www.ppbibo.info/?p=217)
+*   [Open vSwitch2.3.0版本安装部署及基本操作](https://www.sdnlab.com/3166.html)
+*   [Mininet 安装及可视化操作](https://blog.csdn.net/asneverbefore/article/details/78916645)
+*   [**SDN 与 Mininet 概述**](https://blog.csdn.net/Neo233/article/details/79763221)
+*   [Software Defined Networking](https://www.coursera.org/learn/sdn)
+*   [刘润：马云3退阿里，但命中还有第4次](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651610591&idx=1&sn=c04aeb5819cb3f9c8eda8f4b0979447f&chksm=bd1106918a668f873aaf22ddfda9d1605548c64ff9fcb85555bb2e888476107f9c387eaa2d84&mpshare=1&scene=23&srcid=0913S6uMAugQAcVgMHpeYxEY#rd)
+*   [opendaylight 初探【2 mininet布署】](https://www.cnblogs.com/veniceslove/p/6294045.html)
+*   [差异文件（diff）和补丁文件（patch）简介](https://linux.cn/article-10005-1.html)
 *   [普利策奖得主张彦，特别担忧现在的人分辨不了事实和观点 | 访谈录](http://www.qdaily.com/articles/51186.html?share_from=app)
 *   [马克思 200 岁，他和他的主义的 63 个面孔](http://www.qdaily.com/articles/52865.html?share_from=app)
 *   [理解数字世界中的纸张：PDF | 科普](http://sspai.com/post/47092)
