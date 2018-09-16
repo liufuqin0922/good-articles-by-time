@@ -5,12 +5,27 @@
 
 ## 2018-9
 
-
 *   []()
 *   []()
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   [从统计到概率，入门者都能用Python试验的机器学习基础](https://www.jiqizhixin.com/articles/2018-09-04-8?utm_source=tuicool&utm_medium=referral)
+*   [来自独秀同学的深度网络数学笔记，还不快收藏？](https://www.jiqizhixin.com/articles/2018-09-08-5?utm_source=tuicool&utm_medium=referral)
+*   [深入理解 ext4 等 Linux 文件系统](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666542848&idx=1&sn=329ba5ea024a6b27600ffe280b52cd02&chksm=80dcf3abb7ab7abdf123388514656dede3dd75725160947f9e06e6ae277971d473f3622b5914&mpshare=1&scene=23&srcid=0914ChLw8NlLioWLgXip38FY#rd)
+*   [操作系统是如何管理内存的](http://limboy.me/tech/2018/09/14/os-memory.html?utm_source=tuicool&utm_medium=referral)
+*   [2018-9-14 日本老奶奶讲述 50 年前参与学运的过往：那个理想、自由、暴力共存的年代](http://www.qdaily.com/articles/56243.html?share_from=app)
+*   [2018-9-16 如何评价北大化院 17 级个别学生团伙多场考试作弊一事？](https://www.zhihu.com/question/293395440)
 *   [Terminal version of the game "2048" written in C++ 11](https://github.com/plibither8/2048.cpp?utm_source=tuicool&utm_medium=referral)
 *   [Super-simple to create custom layout GUI's. 50 Demo programs & Cookbook for rapid start. Examples for Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer, and more](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 *   [XXE(XML External Entity attack)XML外部实体注入攻击](https://bbs.ichunqiu.com/thread-44306-1-1.html)
