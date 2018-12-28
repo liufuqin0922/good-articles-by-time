@@ -1,11 +1,20 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共1366篇文章        
+共1592篇文章        
+
+## 2019-1
+*   []()
+*   []()
+*   []()
+
+
+
+
+
+
+
 ## 2018-12
-*   []()
-*   []()
-*   []()
 *   [2018-12-28 以武拒统，死路一条！台当局是否听懂这句话？](https://user.guancha.cn/main/content?id=67174&s=fwesszrbt)
 *   [**Reading Microsoft Excel XLSX files in Java**](https://medium.com/@ssaurel/reading-microsoft-excel-xlsx-files-in-java-2172f5aaccbe)
 *   [2018-12-28 千人斗权健，解救“疯狗”:“希望家人能回头”](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652398056&idx=1&sn=00c665b61bd05ad831fb293a41a7d58c&chksm=33d99c6c04ae157abae4f55d2dbd07ef92d7923cd1db53a7aef38d5b7938eeb4d048e8bd17ee&mpshare=1&scene=23&srcid=12283c24ppJrF1VL4Fuln4Kd#rd)
@@ -232,6 +241,9 @@
 *   [2018-11-29 关于年轻人“粉圈现象”和“追星行为”的心理学研究](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674589&idx=1&sn=396e0cf3bbc150bf7604f8ceededff45&chksm=bed49abc89a313aa1281d3a817051d6632f8f7f0ccb277158406da4f1fc05bfa7c0caca710c3&mpshare=1&scene=23&srcid=1129xsbh5w81wedHuzr2Yxql#rd)
 *   [不为人知的网络编程(七)：如何让不可靠的UDP变的可靠？-网络编程/专项技术区 - 即时通讯开发者社区!](http://www.52im.net/thread-1293-1-1.html)
 *   [第11章 UDP:用户数据报协议_《TCP/IP详解 卷1：协议》_即时通讯网(52im.net) _即时通讯开发者社区!](http://docs.52im.net/extend/docs/book/tcpip/vol1/11/)
+
+
+
 
 
 
@@ -511,6 +523,10 @@
 *   [How I hacked modern Vending Machines](https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec)
 *   [Linear-feedback shift register](https://en.wikipedia.org/wiki/Linear-feedback_shift_register)
 *   [关于国密算法 SM1，SM2，SM3，SM4 的笔记](https://blog.csdn.net/andylau00j/article/details/54427395)
+
+
+
+
 
 
 ## 2018-10 共387篇
@@ -1222,6 +1238,10 @@
 *   [程序员夏洛克之被踢出去的用户](http://www.techug.com/post/programmer-and-ie-bug.html)
 *   [2018-9-1 警方通报“昆山砍人案”：于海明的行为属于正当防卫，不负刑事责任](https://mp.weixin.qq.com/s?__biz=MjM5MjExOTIyMA==&mid=2652362538&idx=1&sn=f6e3a344e00c3cd7fd8b46f87cf68395&chksm=bd4857f18a3fdee7e823a2d4a824965542b9044f56cd0a5412f8c2b2b53bada75442afd11d31&mpshare=1&scene=23&srcid=09018c4GVVypEffJLh3NdWgA#rd)
 
+
+
+
+
 ## 2018-8 共75篇
 
 
@@ -1301,6 +1321,8 @@
 *   [中国软件失落的三十年 这里的黎明静悄悄 | 林雪萍](https://zhuanlan.zhihu.com/p/41843417)
 *   [女团幻灭往事](https://www.huxiu.com/article/256990.html)
 *   [在中国做创投有多难？](https://www.huxiu.com/article/257078.html)
+
+
 
 
 
@@ -1513,6 +1535,9 @@
 
 
 
+
+
+
 ## 2018-6 共100篇
 *   [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
 *   [理解数据库索引](http://hawk0620.github.io/blog/2018/05/29/understand-index/)
@@ -1614,6 +1639,10 @@
 *   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
+
+
+
+
 
 
 ## 2018-5 共27篇
