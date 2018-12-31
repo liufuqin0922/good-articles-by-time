@@ -6,7 +6,27 @@
 ## 2019-1
 *   []()
 *   []()
-*   []()
+*   [#言出必行#英语翻译专业人士讲方法 | 怎样利用免费网络资源全面学好英文__什么值得买](https://post.smzdm.com/p/604638/)
+*   [手把手教程 | 申请签证很难吗？靠你自己就能搞定！（以英国签证为例）](https://post.smzdm.com/p/605969/)
+*   [Standard Visitor visa : Apply - GOV.UK](https://www.gov.uk/standard-visitor-visa/apply)
+*   [手把手教程 | 申请签证很难吗？靠你自己就能搞定！（以英国签证为例）](https://post.smzdm.com/p/605969/)
+*   [吃瓜吗，校信版面一整年的瓜来了](https://www.cc98.org/topic/4816083/1)
+*   [OpenGL（六） gluLookAt和gluPerspective函数解析](https://blog.csdn.net/dcrmg/article/details/53106457)
+*   [英国签证常见Q&A](https://mp.weixin.qq.com/s?__biz=MzA3NDM4NjEyNA==&mid=400139026&idx=1&sn=2fc58f4abf7b48aa1f5e1fc04eb0e25c&scene=20&mpshare=1&scene=23&srcid=12268rPDjHei4j01SQdIoXD7#wechat_redirect)
+*   [英国短期旅游及商务签证申请常见问题](https://mp.weixin.qq.com/s?__biz=MzA3NDM4NjEyNA==&mid=506257427&idx=1&sn=5e1681f87b80812af3a54b466dc7fce3&chksm=04d8dfb033af56a6fad6ac98f6354a6ad4d35c87c3b383ab2dff9164d4a8984a1329d0addd6e&mpshare=1&scene=23&srcid=1227FIBIgbEQGn2stAmYzgSe#rd)
+*   [将深度学习模型部署为web应用有多难？答案自己找 - 推酷](https://www.jiqizhixin.com/articles/2018-12-07-9?utm_source=tuicool&utm_medium=referral)
+*   [硅谷华人的房东梦](https://www.huxiu.com/article/275273.html?utm_source=tuicool&utm_medium=referral)
+*   [OpenGL基础：glut处理鼠标事件(含滚轮输入)](https://www.jianshu.com/p/c9215017d591)
+*   [The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
+*   [asm.js 和 Emscripten 入门教程](http://www.ruanyifeng.com/blog/2017/09/asmjs_emscripten.html)
+*   [2018-12-29 直击权健事件：“直销”一条街一日关门](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652398074&idx=1&sn=6f86af9927ab08fdc60251b1f4b4fb2e&chksm=33d99c7e04ae15683378886ca4e8e04a903858c5106fc03ac69add85f8c68833ccfa80306dea&mpshare=1&scene=23&srcid=1229MBOGjpZocaD4wsBLjYgL#rd)
+*   [深蓝词库转换2.4版发布，支持最新的搜狗用户词库备份bin格式](https://www.cnblogs.com/studyzy/p/9801629.html)
+*   [中国银行大学生信用卡申请指引V1.22 | 学姿势](https://www.xuezishi.net/the-guidance-of-boc-student-cc-application)
+*   [SQLite - Java](http://www.runoob.com/sqlite/sqlite-java.html)
+*   [IDEA如何打包可运行jar图文详解](https://my.oschina.net/tantexian/blog/705078)
+*   [IDEA+Maven 打jar包](https://blog.csdn.net/branwel/article/details/79918018)
+*   [IDEA中MAVEN项目打JAR包的简单方法](https://www.cnblogs.com/acm-bingzi/p/6625303.html)
+*   [Apache POI 读写 Excel file (.xls or .xlsx)](https://blog.csdn.net/joyous/article/details/51115899)
 
 
 
