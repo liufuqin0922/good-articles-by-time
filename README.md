@@ -1,16 +1,24 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共1592篇文章        
+共1920篇文章        
 
-## 2019-2
+## 2019-3
 *   []()
 *   []()
+
+## 2019-2 共142篇
+*   [编译原理三大经典书籍（龙书 虎书 鲸书）](https://blog.csdn.net/duxingxia356/article/details/40856127)
 *   [【Padavan】华硕固件教程?更新ipv6教程 - CC98论坛](https://www.cc98.org/topic/4656758)
 *   [T-Pot Universal Installer and ISO Creator](https://github.com/dtag-dev-sec/tpotce)
 *   [树莓派：T-Pot多蜜罐平台使用心法 - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/sectool/190840.html?utm_source=tuicool&utm_medium=referral)
 *   [盘点|一文读懂11个主流共识算法, 彻底搞懂PoS,PoW,dPoW,PBFT,dBFT这些究竟是什么鬼...](https://blog.csdn.net/Blockchain_lemon/article/details/84801413)
 *   [2019年七大优秀的网页抓取工具](http://network.51cto.com/art/201901/591506.htm)
+*   [计算机的世界：[－bit之魂－]](https://www.jianshu.com/p/ee74ea7255f5)
+*   [在这顶奇怪的帽子上，我们印上了“莆田制造”和老杨的签名-虎嗅网](https://www.huxiu.com/article/285070.html)
+*   [常用的小工具](https://mubu.com/doc/1X5bRZhypI)
+*   [泪流满面的 11 个 Git 面试题](https://mp.weixin.qq.com/s/ghF27N0XjgG0pw2XpGDCYA)
+*   [爬虫不得不学之 JavaScript 入门篇](https://zhuanlan.zhihu.com/p/56619530)
 *   [用python模拟地球飞越木星 - 知乎](https://zhuanlan.zhihu.com/p/56598906)
 *   [伦敦景点攻略 — 英国红领巾 | 你必备的英国指南 – RED SCARF](https://www.honglingjin.co.uk/category/travel/london-attractions)
 *   [猝死离我们有多远？可能比你以为的更近](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651707246&idx=1&sn=d0c74f0d031888d577fad7bd46a43741&chksm=5da1f3fc6ad67aea4fde688214c27b3906a39015952d35e594e4bcde9597069485a126eb762b&mpshare=1&scene=23&srcid=#rd)
