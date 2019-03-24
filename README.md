@@ -5,8 +5,17 @@
 
 ## 2019-3
 *   []()
+*   [掉入地下一万米-虎嗅网](https://www.huxiu.com/article/290170.html?utm_source=tuicool&utm_medium=referral)
+*   [2019-3-22 3 月 21 日盐城响水化工厂爆炸致 47 人死亡 90 人重伤，现场状况如何？可能是什么原因引起的？](https://www.zhihu.com/question/316874489)
+*   [小谈程序员面试](http://vinllen.com/xiao-tan-cheng-xu-yuan-mian-shi/)       
+*   [（修订）BAT常爱问的面试智力题，你能答对几道？](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247485747&idx=8&sn=88d34f72961588990de41fc1e7096e63&chksm=ec6e706bdb19f97de579c8174bc412fc6a8e166dd5e0daa8c8f7d97795651496ac8d47199274&scene=0&subscene=131&clicktime=1551946017&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAMiZHgDWmR4AAAA%3D&lang=zh_CN&pass_ticket=tnmL6mfSg1%2FH4KB0ub5d3A%2BOs04w%2FJeKYk9wTRIOdkfa6LaxiwI3gJiHJq9y1q2k&wx_header=1)       
+*   [美国止痛神药神话的破灭](https://mp.weixin.qq.com/s?__biz=MzUxMTMwMTMxMw==&mid=2247491429&idx=1&sn=bf879b0678d4dc595e3cd3e5bfba922f&chksm=f9749ccbce0315dd6128b09eb6f95bb9afe42e8ba920df5ea3cb5fc17ea2388d56e01d2242bb&xtrack=1&scene=0&subscene=131&clicktime=1553069338&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=AwABAAoACwATAAQAI5ceAFaZHgDImR4A3JkeAAAA&lang=zh_CN&pass_ticket=%2BnwEo%2BO53pru9NX8OnBRDZpapVU89O3hI38IA3mO4bL6rPs7Mpw%2B9hVRTcrMVVus&wx_header=1&client=tim&ADUIN=780885029&ADSESSION=1553042480&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+*   [Window10上CLion极简配置教程](https://www.jianshu.com/p/1aa989808e15)
+*   [IDEA 代码格式化，快捷键 - 吖水的程序路 - 博客园](https://www.cnblogs.com/aashui/p/7657803.html)
+*   [toplip：一款十分强大的文件加密解密 CLI 工具](https://linux.cn/article-10632-1.html)
 *   [语法解析(一)BNF&EBNF | daily](http://smalinuxer.github.io/2016/02/24/bnf-ebnf.html)
 *   [自己动手写编译器](http://pandolia.net/tinyc/index.html)
+*   [第09章 上下文无关语法及分析](http://pandolia.net/tinyc/ch9_context_free_grammar.html)
 *   [Java 正则表达式详解](https://segmentfault.com/a/1190000009162306)
 *   [Java 正则表达式](http://www.runoob.com/java/java-regular-expressions.html)
 *   [java实现网络爬虫](https://www.cnblogs.com/1996swg/p/7355577.html)
