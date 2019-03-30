@@ -5,7 +5,7 @@
 
 ## 2019-4
 *   []()
-*   []()
+*   [新人入坑Redis必会的吐血总结 - Angel_Kitty - 博客园](https://www.cnblogs.com/ECJTUACM-873284962/p/9542496.html)
 
 
 ## 2019-3
