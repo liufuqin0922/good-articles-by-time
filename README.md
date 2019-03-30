@@ -1,15 +1,27 @@
 # 本仓库用来存放我看过的认为比较好的文章---根据时间排序
 若想看根据分类排序 [good-articlles-by-sort](https://github.com/zhang0peter/good-articles-by-sort)         
 ![number](number.png)            
-共1920篇文章        
+共2030篇文章        
+
+## 2019-4
+*   []()
+*   []()
+
 
 ## 2019-3
-*   []()
+*   [你的天才好友，是谁?(智力题)](https://36kr.com/p/5187865.html?utm_source=tuicool&utm_medium=referral)       
+*   [Java HashMap Tutorial with Examples | CalliCoder](https://www.callicoder.com/java-hashmap/)
+*   [【offer收割机必备】我简历上的Java项目都好low，怎么办？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484583&idx=1&sn=a9d43c3ee63c8e5a37c073c2b8c43fba&chksm=fba6eca4ccd165b2602a462c5589fa8dacd78558bdee7e0138b02bb26370637714f1094f4e9f&scene=21#wechat_redirect)       
+*   [Python操作MongoDB看这一篇就够了 - 51CTO.COM](http://developer.51cto.com/art/201805/573924.htm)
+*   [Getting Started with MongoDB – Setting up admin and user accounts - zocada](https://zocada.com/setting-mongodb-users-beginners-guide/)
+*   [我是如何理解Java8 Stream](https://mp.weixin.qq.com/s/y8WgHZc1psvg-IwB3a4NkQ)
 *   [掉入地下一万米-虎嗅网](https://www.huxiu.com/article/290170.html?utm_source=tuicool&utm_medium=referral)
 *   [2019-3-22 3 月 21 日盐城响水化工厂爆炸致 47 人死亡 90 人重伤，现场状况如何？可能是什么原因引起的？](https://www.zhihu.com/question/316874489)
 *   [关于Java基础你不得不会的34个问题](https://mp.weixin.qq.com/s?__biz=MzUyMzkxNTk5OA==&mid=2247483953&idx=1&sn=ba2f3f5e0a00db175e35d640246e137c&chksm=fa340580cd438c96435a6e63a558a19361f57b5c3b5419ff695ee3b2084980383f16ef05c33b&xtrack=1&scene=0&subscene=131&clicktime=1553341038&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=AwABAAoACwATAAQAI5ceAFaZHgDImR4A3JkeAAAA&lang=zh_CN&pass_ticket=UMjNma8Y4hAEpXn%2BNuwmuwxrwehxP0Bz2WFhuwqQNicBtAKnzeOyB52OuWEfKt%2FQ&wx_header=1)       
 *   [如何使用 SSH 控制连接 Windows 服务器](https://cuiqingcai.com/6509.html)
 *   [Eclipse Che 初上手 - 简书](https://www.jianshu.com/p/339dff3da1fa)
+*   [什么样的简历不会被丢进回收站 - crossoverJie - 博客园](http://www.cnblogs.com/crossoverJie/p/9509048.html)       
+*   [（修订）斩获阿里云offer的前端大神的校招经验分享](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247485747&idx=5&sn=0a0385a005895b424b6ce1b2b828dffc&chksm=ec6e706bdb19f97da30f1f1bcc63206eb12442ee28c1b5f03f02b45cd26309248b2144dcc268&scene=0&subscene=131&clicktime=1551946055&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAMiZHgDWmR4AAAA%3D&lang=zh_CN&pass_ticket=tnmL6mfSg1%2FH4KB0ub5d3A%2BOs04w%2FJeKYk9wTRIOdkfa6LaxiwI3gJiHJq9y1q2k&wx_header=1)       
 *   [小谈程序员面试](http://vinllen.com/xiao-tan-cheng-xu-yuan-mian-shi/)       
 *   [（修订）BAT常爱问的面试智力题，你能答对几道？](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247485747&idx=8&sn=88d34f72961588990de41fc1e7096e63&chksm=ec6e706bdb19f97de579c8174bc412fc6a8e166dd5e0daa8c8f7d97795651496ac8d47199274&scene=0&subscene=131&clicktime=1551946017&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAMiZHgDWmR4AAAA%3D&lang=zh_CN&pass_ticket=tnmL6mfSg1%2FH4KB0ub5d3A%2BOs04w%2FJeKYk9wTRIOdkfa6LaxiwI3gJiHJq9y1q2k&wx_header=1)       
 *   [美国止痛神药神话的破灭](https://mp.weixin.qq.com/s?__biz=MzUxMTMwMTMxMw==&mid=2247491429&idx=1&sn=bf879b0678d4dc595e3cd3e5bfba922f&chksm=f9749ccbce0315dd6128b09eb6f95bb9afe42e8ba920df5ea3cb5fc17ea2388d56e01d2242bb&xtrack=1&scene=0&subscene=131&clicktime=1553069338&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=AwABAAoACwATAAQAI5ceAFaZHgDImR4A3JkeAAAA&lang=zh_CN&pass_ticket=%2BnwEo%2BO53pru9NX8OnBRDZpapVU89O3hI38IA3mO4bL6rPs7Mpw%2B9hVRTcrMVVus&wx_header=1&client=tim&ADUIN=780885029&ADSESSION=1553042480&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
