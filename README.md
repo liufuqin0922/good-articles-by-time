@@ -5,6 +5,10 @@
 
 ## 2019-4
 *   []()
+*   [数据解读｜都是哪些程序员在GitHub上反对996？](https://www.thepaper.cn/newsDetail_forward_3219454)
+*   [春招收获阿里腾讯实习offer，学习、面试经验分享](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515683&idx=1&sn=e92e74ebd4a922589d324f059a243f17&chksm=80d672e0b7a1fbf6a961e2ad24bd71a6f1e459b2e78ee49047d7b4cbbecf698acce42598420f&mpshare=1&scene=23&srcid=#rd)       
+*   [5分钟图解Hbase列式存储](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515515&idx=1&sn=4ad11f3809d137b4ef21be6064cf4615&chksm=80d671b8b7a1f8ae76e47dcc4065f1855d45e2640cf9ef1ae6d4127b4cbab734226ff55b36dc&mpshare=1&scene=23&srcid=#rd)
+*   [小白必须懂的MongoDB的十大总结 - Angel_Kitty - 博客园](https://www.cnblogs.com/ECJTUACM-873284962/p/9613236.html#autoid-0-1-4)
 *   [新人入坑Redis必会的吐血总结 - Angel_Kitty - 博客园](https://www.cnblogs.com/ECJTUACM-873284962/p/9542496.html)
 
 
