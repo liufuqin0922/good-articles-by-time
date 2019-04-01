@@ -5,7 +5,9 @@
 
 ## 2019-4
 *   []()
+*   [深入分析 Javac 编译原理 - 掘金](https://juejin.im/post/5b9fa2e5f265da0ad2217f84)
 *   [数据解读｜都是哪些程序员在GitHub上反对996？](https://www.thepaper.cn/newsDetail_forward_3219454)
+*   [昨天，终于拿到了腾讯 offer](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247486049&idx=1&sn=98acbffba0f8ba3ca6ae71f57c615639&chksm=ec6e7339db19fa2f5ee92798d5e8cdf8ff873466aa42f6e8f0139100ad7468937ba7f9bd9a97&mpshare=1&scene=23&srcid=0331dLJVVRqpAopQtiCXOOSp#rd)       
 *   [春招收获阿里腾讯实习offer，学习、面试经验分享](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515683&idx=1&sn=e92e74ebd4a922589d324f059a243f17&chksm=80d672e0b7a1fbf6a961e2ad24bd71a6f1e459b2e78ee49047d7b4cbbecf698acce42598420f&mpshare=1&scene=23&srcid=#rd)       
 *   [5分钟图解Hbase列式存储](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515515&idx=1&sn=4ad11f3809d137b4ef21be6064cf4615&chksm=80d671b8b7a1f8ae76e47dcc4065f1855d45e2640cf9ef1ae6d4127b4cbab734226ff55b36dc&mpshare=1&scene=23&srcid=#rd)
 *   [小白必须懂的MongoDB的十大总结 - Angel_Kitty - 博客园](https://www.cnblogs.com/ECJTUACM-873284962/p/9613236.html#autoid-0-1-4)
