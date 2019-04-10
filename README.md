@@ -5,6 +5,16 @@
 
 ## 2019-4
 *   []()
+*   [在我国，没有任何一张地图能告诉你你的真实位置](https://www.huxiu.com/article/293246.html)
+*   [996，谁的ICU?](https://mp.weixin.qq.com/s/FCtiXY_ZMwS86bYgHKns1w)
+*   [**咳血的独角兽丨互联网的幕后攻防**](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649736978&idx=1&sn=f3412ce5f5eb10ad4993b7a2edc6b281&chksm=f25b6140c52ce856f76ca74bc5142eeab7caf075650e19bae22f44b69221ba16ca897c8cc19c&mpshare=1&scene=23&srcid=#rd)
+*   [浅析 Bash 中的 {花括号} | Linux 中国](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613691&idx=1&sn=fe69e21ce69c2702000a8cd5d9951aaa&chksm=bdcefc7d8ab9756b693a1416123b050a3351063f15c71060d4e9319be2001df8048764b403bf&mpshare=1&scene=23&srcid=#rd)
+*   [**超低生育率养成记**](https://user.guancha.cn/main/content?id=77249&page=0)
+*   [**别再让年轻人借钱了_风闻社区**](https://user.guancha.cn/main/content?id=96054&s=zwyess)
+*   [**我25岁，从小在深圳长大的女人，现在是一名美国陆军空降兵_风闻社区**](https://user.guancha.cn/main/content?id=96639&s=zwyess)
+*   [来点儿编译原理（1）实现一个小型四则运算编译器 - 知乎](https://zhuanlan.zhihu.com/p/24035780)
+*   [从编译原理看一个解释器的实现 - 木宛城主 - 博客园](http://www.cnblogs.com/OceanEyes/p/implement_a_interpreter.html)
+*   [**前端要以正确的姿势学习编译原理（上篇） - 知乎**](https://zhuanlan.zhihu.com/p/36301857)
 *   [深入分析 Javac 编译原理 - 掘金](https://juejin.im/post/5b9fa2e5f265da0ad2217f84)
 *   [数据解读｜都是哪些程序员在GitHub上反对996？](https://www.thepaper.cn/newsDetail_forward_3219454)
 *   [昨天，终于拿到了腾讯 offer](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247486049&idx=1&sn=98acbffba0f8ba3ca6ae71f57c615639&chksm=ec6e7339db19fa2f5ee92798d5e8cdf8ff873466aa42f6e8f0139100ad7468937ba7f9bd9a97&mpshare=1&scene=23&srcid=0331dLJVVRqpAopQtiCXOOSp#rd)       
